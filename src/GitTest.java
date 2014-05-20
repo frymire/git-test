@@ -6,8 +6,9 @@ public class GitTest {
 
 		System.out.println("Hello, world.");
 		System.out.println("Lovin' life...");
+		System.out.println("You've ruined my life!!!");
 		System.out.println("Goodbye, cruel world.");
 
 	} // main
 
-}
+} // GitTest
