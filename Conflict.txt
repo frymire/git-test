@@ -1,1 +1,1 @@
-Writing text from master.
+Writing combined text from master during conflict resolution.
