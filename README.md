@@ -1,1 +1,7 @@
-This code will prove that I'm not an __idiot__, and can use git.
+Proof that I can use git.
+
+Here's a great git log alias (git lg)...
+git config --global alias.lg 'log --graph --pretty=format:"%C(auto)%h%d%Creset %C(cyan)(%cr)%Creset %C(green)%cn %Creset %s"'
+
+Previously, it was...
+git config --global alias.lg "log --graph --decorate --pretty=oneline --abbrev-commit --all"
